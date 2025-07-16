@@ -34,8 +34,8 @@ body {
     align-items: center;
     margin-bottom: 2rem;
     flex-wrap: wrap;
-    
-    width: 90%;
+    height: 10vh;
+    width: 30vw;
     background-color: black;
 }
 
@@ -62,17 +62,5 @@ body {
     box-shadow: 0 0 0.5rem #fff,
     inset 0 0 0.5rem rgba(0, 0, 0, 0.8);
 }
-  @media (max-width: 480px) {
-  .search-form {
-    flex-direction: column;
-    gap: 0.8rem;
-  }
-
-  .search-form input,
-  .search-form button {
-    width: 100%;
-    flex: none;
-  }
-}
-
+  
     
