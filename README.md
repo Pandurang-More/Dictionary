@@ -1,6 +1,8 @@
 # 📘 Dictionary App
 
 A simple and responsive web-based dictionary built using HTML, CSS, and JavaScript that fetches definitions, phonetics, audio, and more using the Free Dictionary API.
+🔗 [Live Demo](https://pandurangmoredictionary.netlify.app/)
+
 
 🚀 Features
 🔍 Search for any English word
@@ -14,10 +16,9 @@ A simple and responsive web-based dictionary built using HTML, CSS, and JavaScri
 ⚡ Fetches live data using an external API
 
 🛠️ Tech Stack
-
-HTML5
-CSS3
-JavaScript (Vanilla)
+1)HTML5
+2)CSS3
+3)JavaScript (Vanilla)
 ```
 
 Free Dictionary API
