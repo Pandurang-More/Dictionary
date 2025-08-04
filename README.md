@@ -1,4 +1,5 @@
-📘 Dictionary App
+# 📘 Dictionary App
+
 A simple and responsive web-based dictionary built using HTML, CSS, and JavaScript that fetches definitions, phonetics, audio, and more using the Free Dictionary API.
 
 🚀 Features
@@ -13,10 +14,9 @@ A simple and responsive web-based dictionary built using HTML, CSS, and JavaScri
 ⚡ Fetches live data using an external API
 
 🛠️ Tech Stack
+
 HTML5
-
 CSS3
-
 JavaScript (Vanilla)
 ```
 
