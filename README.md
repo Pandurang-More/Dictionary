@@ -16,9 +16,9 @@ A simple and responsive web-based dictionary built using HTML, CSS, and JavaScri
 ⚡ Fetches live data using an external API
 
 🛠️ Tech Stack
-1)HTML5
-2)CSS3
-3)JavaScript (Vanilla)
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 ```
 
 Free Dictionary API
